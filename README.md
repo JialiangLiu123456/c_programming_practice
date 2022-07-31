@@ -1,2 +1,2 @@
 # c_programming_practice
-Practicing C programming.
+Coding practice for C programming.
